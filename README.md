@@ -28,6 +28,12 @@ Often problems can be solved by updating the drivers of your computer. Go to the
 ### Firewall
 
 
+### Disable auto start applications
+Start the Run-Dialog Box [Windows-logo] + [R]
+Enter the command for current user: shell:startup 
+Enter the command for all users: shell:common startup  
+
+
 
 ### Virusscan
 
